@@ -6,7 +6,7 @@
 	$b = 0;
 
 	$e = 0;
-	$k = 1;
+	$k = 2;
 ?>
 
 <p>add new paragraph</p>
