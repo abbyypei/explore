@@ -8,3 +8,5 @@
 	$e = 0;
 	$k = 0;
 ?>
+
+<p>add new paragraph</p>
